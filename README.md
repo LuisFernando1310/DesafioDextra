@@ -6,7 +6,7 @@ Abra a solution "DesafioDextra" e vá em appSettings.json para ver se o campo "C
 
 Após verificar sua conexão com o mongodb, execute os testes no projeto UnitTests para validar sua conexão com o mongodb
 
-Com a execução dos testes, pode executar o projeto DesafioDextra, onde irá se abrir um swagger que terá todos os endpoints necessários
+Com a execução dos testes, execute o projeto DesafioDextra, onde irá se abrir um swagger que terá todos os endpoints necessários
 
 Como será criado uma Base de dados nova com novas coleções, será necessário realizar inserts pelos métodos Post, segue scripts para cada endpoint de inserção:
 OBS: Após um personagem ser criado, ele terá um Id, com esse Id, você usará ele para preencher o campo "characterId" dos outros endpoints
