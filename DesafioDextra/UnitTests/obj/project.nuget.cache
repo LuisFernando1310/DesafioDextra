@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EpkJJurQ8ZNFIeTfS2MQOG0g4XMIcmBtXLtrOT1T0DyXCw9UeQSidsQCw5KWYTroeceSbgCnV+iFMNeggy+J7w==",
+  "dgSpecHash": "qLkPcInIhJK8OzBwOrHwV5P5fjbdUbZQCMXvUfE66+n+ri+AmZZSbkt8U64oA3w9xwwUIY3kH30XVQkJQN1I8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luisf\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\luisf\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",

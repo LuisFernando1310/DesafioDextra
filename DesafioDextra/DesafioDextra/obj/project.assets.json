@@ -636,11 +636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj",
+      "projectUniqueName": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj",
       "projectName": "DesafioDextra",
-      "projectPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj",
+      "projectPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj",
       "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\DesafioDextra\\obj\\",
+      "outputPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\DesafioDextra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",

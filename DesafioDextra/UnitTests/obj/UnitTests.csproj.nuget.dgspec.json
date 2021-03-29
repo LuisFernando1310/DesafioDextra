@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\UnitTests\\UnitTests.csproj": {}
+    "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj": {
+    "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj",
+        "projectUniqueName": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj",
         "projectName": "DesafioDextra",
-        "projectPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj",
+        "projectPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj",
         "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\DesafioDextra\\obj\\",
+        "outputPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\DesafioDextra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\UnitTests\\UnitTests.csproj": {
+    "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\UnitTests\\UnitTests.csproj",
+        "projectPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj": {
-                "projectPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\Estudos\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj"
+              "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj": {
+                "projectPath": "C:\\Users\\luisf\\Desktop\\Projetos Pessoais\\DesafioDextra\\DesafioDextra\\DesafioDextra\\DesafioDextra.csproj"
               }
             }
           }

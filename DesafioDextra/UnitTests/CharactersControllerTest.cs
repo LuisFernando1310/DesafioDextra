@@ -50,22 +50,6 @@ namespace UnitTests
         }
 
         [Fact]
-        public void CreateComic()
-        {
-            var comicToCreate = new CreateComicDTO()
-            {
-                Title = Guid.NewGuid().ToString(),
-                CharacterId = Guid.NewGuid().ToString()
-            };
-
-            var controller = new CharactersController(repository.Object);
-
-            var result = controller.CreateComic(comicToCreate);
-
-            Assert.IsType<ComicDTO>(result.Value);
-        }
-
-        [Fact]
         public void GetEvents()
         {
             var controller = new CharactersController(repository.Object);
@@ -73,22 +57,6 @@ namespace UnitTests
             var result = controller.GetEvents(Guid.NewGuid().ToString());
 
             Assert.IsType<NotFoundResult>(result.Result);
-        }
-
-        [Fact]
-        public void CreateEvent()
-        {
-            var eventToCreate = new CreateEventDTO()
-            {
-                Description = Guid.NewGuid().ToString(),
-                CharacterId = Guid.NewGuid().ToString()
-            };
-
-            var controller = new CharactersController(repository.Object);
-
-            var result = controller.CreateEvent(eventToCreate);
-
-            Assert.IsType<EventDTO>(result.Value);
         }
 
         [Fact]
@@ -102,22 +70,6 @@ namespace UnitTests
         }
 
         [Fact]
-        public void CreateSerie()
-        {
-            var serieToCreate = new CreateSerieDTO()
-            {
-                Title = Guid.NewGuid().ToString(),
-                CharacterId = Guid.NewGuid().ToString()
-            };
-
-            var controller = new CharactersController(repository.Object);
-
-            var result = controller.CreateSerie(serieToCreate);
-
-            Assert.IsType<SerieDTO>(result.Value);
-        }
-
-        [Fact]
         public void GetStories()
         {
             var controller = new CharactersController(repository.Object);
@@ -125,22 +77,6 @@ namespace UnitTests
             var result = controller.GetStories(Guid.NewGuid().ToString());
 
             Assert.IsType<NotFoundResult>(result.Result);
-        }
-
-        [Fact]
-        public void CreateStory()
-        {
-            var storyToCreate = new CreateStoryDTO()
-            {
-                Resume = Guid.NewGuid().ToString(),
-                CharacterId = Guid.NewGuid().ToString()
-            };
-
-            var controller = new CharactersController(repository.Object);
-
-            var result = controller.CreateStory(storyToCreate);
-
-            Assert.IsType<StoryDTO>(result.Value);
         }
     }
 }
